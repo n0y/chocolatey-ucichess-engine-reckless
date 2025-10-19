@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd nuspec.xsd">
+    <metadata>
+        <owners>Bertram Fey</owners>
+        <id>ucichess-engine-reckless</id>
+        <version>%%VERSION%%</version>
+        <title>Reckless UCI Chess Engine</title>
+        <authors>Arseniy Surkov</authors>
+        <summary>
+            UCI chess engine written in Rust
+        </summary>
+        <description>
+            Guided by the insights from the chess programming community, it fearlessly combines established concepts with its reckless nature, as the name suggests.
+        </description>
+        <projectUrl>https://github.com/codedeliveryservice/Reckless</projectUrl>
+        <licenseUrl>https://github.com/gab8192/Obsidian/blob/main/LICENSE</licenseUrl>
+        <tags>uci chess</tags>
+    </metadata>
+    <files>
+        <file src="tools\**" target="tools"/>
+    </files>
+</package>
