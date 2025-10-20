@@ -16,6 +16,8 @@
         </description>
         <projectUrl>https://github.com/codedeliveryservice/Reckless</projectUrl>
         <licenseUrl>https://github.com/gab8192/Obsidian/blob/main/LICENSE</licenseUrl>
+        <releaseNotes>https://github.com/codedeliveryservice/Reckless/releases</releaseNotes>
+        <packageSourceUrl>https://github.com/n0y/chocolatey-ucichess-engine-reckless</packageSourceUrl>
         <tags>uci chess</tags>
     </metadata>
     <files>
